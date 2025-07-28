@@ -83,12 +83,6 @@ starboy-analysis/
 └── .gitignore          # Tells git what to ignore
 ```
 
-## Design choices
-- Dark theme because it looks cool
-- Big fonts so it's easy to read
-- Left-aligned tables because it's cleaner
-- Hover effects for interactivity
-
 ## Why I built this
 I wanted to see what patterns emerge when you analyze The Weeknd's lyrics. Which words does he repeat? What emotions dominate each song? Etc. Etc.
 
