@@ -1,4 +1,4 @@
-# The Weeknd - Starboy Lyrics Analysis
+# ⭐️The Weeknd - Starboy Lyrics Analysis
 
 I built this using Streamlit to create an interactive web app that analyzes word frequency and sentiment across the entire album. 
 
